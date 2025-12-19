@@ -1,5 +1,3 @@
-# KellyYu-FinalProject-DataBootCamp
-
 # NYU-Data-Bootcamp-Final
 ## Diabetes Prediction Using Empirical and Machine Learning Models
 Jiamei Shi(js14017), Siya Xu(sx2436), Kelly Yu(yy5089)
